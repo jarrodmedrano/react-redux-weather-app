@@ -1,7 +1,7 @@
 {
-  "name": "redux-simple-starter",
+  "name": "react-redux-weather-app",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "Example of React Redux and Sparklines",
   "main": "index.js",
   "repository": "git@github.com:jarrodmedrano/react-redux-weather-app.git",
   "scripts": {

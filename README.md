@@ -1,8 +1,10 @@
 # Redux Weather App
 
-Learning Redux using @StephenGrider's tutorials.
+React Redux Weather Search App
 
 ```
 	> npm install
 	> npm start
 ```
+
+Learned from @StephenGrider
